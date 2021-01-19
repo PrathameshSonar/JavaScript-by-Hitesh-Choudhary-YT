@@ -1,6 +1,5 @@
-var sayHello = function(){
+(function(){
     console.log("I say hello");
-};
-
+})();
 
 
